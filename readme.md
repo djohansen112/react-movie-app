@@ -1,8 +1,3 @@
-# React + Vite
+# Tech with Tim movie app for React practice
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Been a while since I made a react project from scratch so thought I'd do a code-along tutorial. I've chosen Tim's as I'm keen to put this over a Flask backend later on to also refresh my knowledge of that. A long time with Model View Controller architecture, I'm keen to have a look at the Model View Template and compare the two.
